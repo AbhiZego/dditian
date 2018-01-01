@@ -1,0 +1,6 @@
+framework module Pods_DDITIAN {
+  umbrella header "Pods-DDITIAN-umbrella.h"
+
+  export *
+  module * { export * }
+}
